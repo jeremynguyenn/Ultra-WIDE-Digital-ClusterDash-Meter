@@ -1,3 +1,5 @@
+## For security reasons, only upload photos.
+
 ## FULLMONI-WIDE
 ![FM1](IMG/FM2.png)<br>
 ![FM1](IMG/FM3.png)<br>
