@@ -12,14 +12,11 @@ You can download 3D data in the specified format.<br>
 
 # Schematic & PCB Files
 ## MAIN-Board
-&emsp;&emsp; https://a360.co/4059OwM<br>
-PCB: https://a360.co/4acejtW<br>
+&emsp;&emsp; 
 3D: https://a360.co/3PSdNs1<br>
 ## LED-Board1
-&emsp;&emsp; https://a360.co/4fYChtY<br>
-PCB: https://a360.co/40t23C2<br>
+&emsp;&emsp; 
 3D: https://a360.co/4avyaEV<br>
 ## IF-Board1
-&emsp;&emsp; https://a360.co/4heQZyd<br> 
-PCB: https://a360.co/4jgQo0P<br> 
+&emsp;&emsp; 
 3D: https://a360.co/4gSbPna<br>
