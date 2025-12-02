@@ -1,4 +1,5 @@
 ## For security reasons, only upload photos.
+Both Firmware and Hardware are locked.
 
 ## FULLMONI-WIDE
 ![FM1](IMG/FM2.png)<br>
