@@ -2,7 +2,6 @@
 Both Firmware and Hardware are locked.
 
 ## FULLMONI-WIDE
-![FM1](IMG/FM2.png)<br>
 ![FM1](IMG/FM3.png)<br>
 ## Project Overview
 FULLMONI-WIDE is an open hardware project for automotive digital meters.
