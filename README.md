@@ -32,6 +32,13 @@ In addition to a dedicated chassis for the Mazda Roadster NA, it also supports g
 - Up to 8 analog inputs, supports vehicle speed pulse input
 - Circuit and board design released under MIT license
 
+## Architecture
+- title Project Sequence Diagram: System Initialization and Data Flow
+<img width="2302" height="1658" alt="UML_diagram" src="https://github.com/user-attachments/assets/a96cd879-a2cd-424c-9bc7-973a6f2877ef" />
+
+- Project Architecture UML Component Diagram
+<img width="3632" height="716" alt="skinparam_UML_diagram" src="https://github.com/user-attachments/assets/9c029cb5-c26c-4a91-8baf-9b78fdbae481" />
+
 ## Distinctive Design Philosophy
 - Recycled discontinued parts from old vehicles using modern technology
 - Aiming for a simple, genuine-looking appearance
